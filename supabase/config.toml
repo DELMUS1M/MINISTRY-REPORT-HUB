@@ -1,0 +1,4 @@
+project_id = "ministry-report-hub"
+
+[functions.assign-role]
+verify_jwt = true

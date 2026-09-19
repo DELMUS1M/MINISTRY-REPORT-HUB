@@ -1,0 +1,16 @@
+# Ministry Report Hub
+
+> A private congregation tool for submitting and compiling monthly field
+> ministry reports. Publishers report Yes/No participation; regular,
+> auxiliary and special pioneers report hours and Bible studies. The
+> secretary views a live, exportable roll-up for the congregation.
+
+This application sits behind authentication. Its dashboard and secretary
+pages contain private congregation data and are not for indexing or
+training use. Only the public marketing, login and registration pages
+are open to crawling — see /robots.txt.
+
+## Pages
+- /: Overview and sign-up entry point
+- /login: Account sign-in
+- /register: Account creation
